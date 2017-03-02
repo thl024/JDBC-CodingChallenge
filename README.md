@@ -1,5 +1,3 @@
-PLEASE READ UNTIL THE END
-
 This project was built with IntelliJ IDEA. You can run the files
 from IDEA by adding the jar files in lib to classpath and running main() in
 src/main/java/Launcher. I’ve included external libraries via jar files (I did
@@ -28,7 +26,3 @@ e.g. test.java.data.utils.DataUtilsTest
 As for optional requirements:
 Validation of model, make, and year fields are supported.
 Filtering of GET operation is also supported.
-
-Thank you!
-
-- Timothy Lam
